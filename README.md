@@ -1,3 +1,3 @@
 "# UCS-Script" 
 
-"##Some usefull script for UCS manager and central"
+##Some usefull script for UCS manager and central
