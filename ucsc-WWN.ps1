@@ -1,4 +1,4 @@
-##Powercli script ot get WWNs from service profiles of UCS central.
+##Powercli script ot get WWNs from service profiles of UCS central service profiles.
 ## Biswajit 07/02/17
 # gethba.ps1
 # This script will generate output from UCS Central.
